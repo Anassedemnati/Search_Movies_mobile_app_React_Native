@@ -4,12 +4,9 @@
 
 ### Built With
 
-
-
-
 * [React Native](https://reactnative.dev/)
 
-
+![alt text](https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif)
 
 # Search Movies mobileapp React Native
 
